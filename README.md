@@ -2,9 +2,6 @@
 
 ## Team
 
-### Jennifer Causing
-### Hasan Ali
-### Adela Tai
-### Joe C
-
-
+### Tanawat Huntakul
+### Carl Ravensburgen
+### Juan Rios
