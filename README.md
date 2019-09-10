@@ -1,7 +1,7 @@
 # PlatformsVR
 
-## Team
+### Team
 
-### Tanawat Huntakul
-### Carl Ravensburgen
-### Juan Rios
+Tanawat Huntakul
+Carl Ravensburgen
+Juan Rios
